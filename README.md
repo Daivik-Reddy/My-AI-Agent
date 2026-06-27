@@ -51,7 +51,7 @@ AI-Agent-Pro/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Agent-Pro.git
+git clone https://github.com/Daivik-Reddy/AI-Agent-Pro.git
 cd AI-Agent-Pro
 ```
 
@@ -144,10 +144,6 @@ pip install -r requirements.txt
 🏁 Max Verstappen won...
 ```
 
-*(Add screenshots here for a more attractive GitHub page.)*
-
----
-
 ## 🔒 Environment Variables
 
 Never commit your API keys.
@@ -220,9 +216,9 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Daivik V Avalapati
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Daivik-Reddy
 
 ---
 
